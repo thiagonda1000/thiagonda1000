@@ -1,7 +1,7 @@
 <h1> Thiago N. D. Anjos (he/him) 👋🏻 </h1>
 <h2> Software Engineer</h2>
 
-I enjoy turning complex business rules into predictable systems.
+>I enjoy turning complex business rules into predictable systems.
 
 ---
 
@@ -34,7 +34,7 @@ I enjoy turning complex business rules into predictable systems.
 
 ## 🧰 Core Stack
 
-### Backend Engineering
+### Backend Engineering 
 - Ruby on Rails
 - Java & Spring Boot
 - Golang
@@ -42,32 +42,32 @@ I enjoy turning complex business rules into predictable systems.
 - Background processing (Sidekiq, async workflows)
 - Messaging systems (RabbitMQ)
 
-### Data & Performance
+### Data & Performance 
 - PostgreSQL (indexing, tuning, ACID)
 - Redis (caching & concurrency)
 - MongoDB (document modeling, flexible schemas, aggregation pipelines)
 - Elasticsearch
 - Query optimization
-
-### Frontend & Integration
+ 
+### Frontend & Integration 
 - React, Angular
 - Hotwire (Turbo + Stimulus)
 - SPA & API integration
 - Async JS (Promises, async/await)
 
-### Infrastructure & DevOps
+### Infrastructure & DevOps 
 - Linux
 - Docker & Kubernetes
 - AWS
 - CI/CD (GitHub Actions)
 
-### AI-augmented engineering
+### AI-augmented engineering 
 - Architecture validation
 - Test scaffolding & coverage improvement
 - Code review acceleration
 - RAG experiments for internal documentation systems
 
-## Additional Experience
+## Additional Experience 
 - Designing and consuming third-party APIs
 - Message-driven architectures and async workflows
 - Production incident investigation and performance tuning
@@ -81,19 +81,3 @@ I enjoy turning complex business rules into predictable systems.
 
 Brazilian Jiu-Jitsu practitioner.  
 I value discipline, repetition and long-term consistency — in code, training, and life.
-
----
-
-<p align="center">
-<a href="https://skillicons.dev">
-
-<img src="https://skillicons.dev/icons?i=java,spring,golang,ruby,rails,nodejs,c" />
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,elasticsearch,rabbitmq,graphql" />
-
-<img src="https://skillicons.dev/icons?i=react,angular,js,typescript,html,css,sass,bootstrap,yarn" />
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,arch,bash,git,neovim,postman,regex,heroku" />
-
-</a>
-</p>
